@@ -9,5 +9,4 @@ export class usuarioServico {
     public usuarioOrigem: String;
     public Sucesso: string;
 
-    constructor(nome:string,email:string,)
 }
